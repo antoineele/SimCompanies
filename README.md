@@ -1,3 +1,5 @@
+i have a question please contact me in snap antoinegov because i want if we can create a bot that buys on the market at a certain price on sim companies and if so how to do that
+
 # simco-utils
 `simco-utils` provides utilities for the online multiplayer game *Sim Companies* (https://www.simcompanies.com/).
 
